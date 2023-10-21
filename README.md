@@ -1,5 +1,6 @@
 # hale-app
 An example prototype Survey app intended to showcase Javascript, React Native, and Tailwind capabilities.
+This was part of my application process for an internship at a great company, Hale, where I ended up interning.
 
 The user goes through a pipeline of Landing Page -> Fill out Survey -> Submit -> Confirmation page
 
